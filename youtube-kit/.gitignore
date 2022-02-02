@@ -1,0 +1,7 @@
+# Project exclude paths
+src/test.js
+build
+
+# non ignore
+!.gitignore
+!videos/
