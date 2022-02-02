@@ -3,15 +3,18 @@
   "rushVersion": "5.61.3",
   "pnpmVersion": "6.7.1",
   "pnpmOptions": {
-    "useWorkspaces": true
+    "useWorkspaces": true,
+    "strictPeerDependencies": true
   },
 
   "nodeSupportedVersionRange": ">=12.13.0 <13.0.0 || >=14.15.0 <15.0.0 || >=16.13.0 <17.0.0",
+  "ensureConsistentVersions": true,
 
   "gitPolicy": {
   },
 
   "repository": {
+    "url": "https://git.jetbrains.space/yunkuangao/yunkuangao/rush.git"
   },
 
   "eventHooks": {
@@ -32,6 +35,10 @@
     {
       "packageName": "youtube-kit",
       "projectFolder": "youtube-kit"
+    },
+    {
+      "packageName": "koishi-bot",
+      "projectFolder": "koishi-bot"
     }
   ]
 }
