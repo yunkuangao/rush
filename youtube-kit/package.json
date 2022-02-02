@@ -4,7 +4,8 @@
   "description": "youtube videos downloader",
   "main": "index.js",
   "scripts": {
-    "download": "node index.js --url"
+    "download": "node index.js --url",
+    "build": ""
   },
   "repository": {
     "type": "git",
