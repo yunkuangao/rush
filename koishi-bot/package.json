@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.10",
     "cloudscraper": "^4.6.0",
     "jquery": "^3.6.0",
-    "koishi": "^3.13.0",
+    "koishi": "^4.0.0",
     "koishi-plugin-mysql": "^3.4.0",
     "koishi-utils": "^4.2.3",
     "puppeteer": "^12.0.1",
