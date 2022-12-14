@@ -15,7 +15,7 @@
     "koishi": "^3.13.0",
     "koishi-plugin-mysql": "^3.4.0",
     "koishi-utils": "^4.2.3",
-    "puppeteer": "^12.0.1",
+    "puppeteer": "^19.0.0",
     "puppeteer-extra-plugin-stealth": "^2.9.0",
     "xml2js": "^0.4.23"
   },
