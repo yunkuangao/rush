@@ -25,7 +25,7 @@
     "koishi-plugin-common": "^4.3.2",
     "koishi-plugin-cryptocurrency": "^0.1.0",
     "koishi-plugin-image-search": "^3.0.4",
-    "koishi-plugin-rss": "^2.0.0",
+    "koishi-plugin-rss": "^3.0.0",
     "koishi-plugin-schedule": "^3.0.5",
     "koishi-plugin-tools": "^3.0.0",
     "koishi-plugin-webui": "^4.6.3",
